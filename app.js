@@ -1,9 +1,13 @@
 function accessFirstItem(array) {
     // your code goes here
+    var first = array[0];
+    return first;
 }
 
 function accessThirdItem(array) {
     // your code goes here
+    var third = array[2];
+    return third;
 }
 
 
